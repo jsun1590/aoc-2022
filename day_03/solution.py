@@ -1,4 +1,3 @@
-
 with open("input.txt") as fh:
     lines = [line.strip() for line in fh.readlines()]
 

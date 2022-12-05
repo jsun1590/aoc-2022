@@ -20,7 +20,6 @@ def part_2():
             us = rules[res][them]
             score  += res * 3
             score += us
-            
     return score
 
 print(part_1())
